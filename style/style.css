@@ -1,5 +1,7 @@
-footer {
-    bottom: 0;
-    position: absolute;
+.footer{
+    position: fixed;
+    justify-content: center;
+    width: center;
+    text-align: center;
   }
   
